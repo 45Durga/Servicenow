@@ -4,7 +4,7 @@
         <applies_extended>false</applies_extended>
         <condition/>
         <description/>
-        <field>state</field>
+        <field>service_offering</field>
         <global>true</global>
         <isolate_script>true</isolate_script>
         <messages/>
@@ -39,7 +39,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>33719a9197d0111058db74571153af86</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_name>popu</sys_name>
         <sys_overrides/>
         <sys_package display_value="abc" source="x_564487_abc">8a5ad82c2f310110686ae83df699b6f6</sys_package>
@@ -47,7 +47,7 @@
         <sys_scope display_value="abc">8a5ad82c2f310110686ae83df699b6f6</sys_scope>
         <sys_update_name>sys_script_client_33719a9197d0111058db74571153af86</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-06-24 10:19:41</sys_updated_on>
+        <sys_updated_on>2022-10-19 11:10:44</sys_updated_on>
         <table>incident</table>
         <type>onChange</type>
         <ui_type>0</ui_type>
